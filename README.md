@@ -1,0 +1,1 @@
+This repository demonstrates a bug in a React Native application where fetching data from a remote API inconsistently causes crashes on Android.  The iOS version functions correctly.  The provided solution addresses potential causes of this issue, including network errors and JSON parsing issues, to enhance stability and reliability.
